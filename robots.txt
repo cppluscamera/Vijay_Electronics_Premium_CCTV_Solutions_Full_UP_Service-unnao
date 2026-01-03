@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cppluscamera.github.io/Vijay_Electronics_Premium_CCTV_Solutions_Full_UP_Service-unnao/sitemap.xml
