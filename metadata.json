@@ -1,7 +1,0 @@
-{
-  "name": "Vijay Electronics - Premium CCTV Solutions",
-  "description": "A professional website for Vijay Electronics, specializing in CCTV installation, repair, and AMC services in Kanpur and Unnao, featuring an AI voice agent and integrated lead management.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
